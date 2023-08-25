@@ -29,5 +29,5 @@ This section contains a list of completed projects as well as a brief descriptio
 - Google Data Analytics Professional Certificate, Coursera - Google (Jul 2023 - Present)
 
 ## Contacts
-- Linkedin: [@ronishahill](www.linkedin.com/in/ronishahill)
-- Email: [ronishahill@live.com](ronishahill@live.com)
+- Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
+- Email: [ronishahill@live.com]
