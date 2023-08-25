@@ -30,4 +30,4 @@ This section contains a list of completed projects as well as a brief descriptio
 
 ## Contacts
 - Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
-- Email: [ronishahill@live.com]
+- Email: ronishahill@live.com
