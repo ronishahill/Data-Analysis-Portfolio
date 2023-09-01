@@ -11,6 +11,7 @@ Feel free to look around : )
 - [Portfolio Projects](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
    - SQL
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
+     - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
    - Execel / Google Sheets
    - Tableau
      
@@ -27,9 +28,19 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Covid-19 Data Exploration.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Covid-19%20Data%20Exploration.sql)
 
-**Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data loading, data cleaning/preprocessing, and exploratory data analysis (EDA)
+**Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data Loading, Data Cleaning/Preprocessing, and Exploratory Data Dnalysis (EDA)
 
-**Skills:** Joins, Windows Functions, Aggregate Functions, Converting Data Types, CTE's, Temp Tables, Creating Views
+**Skills:** Joins, Windows Functions, Aggregate Functions, Converting Data Types, CTEs, Temp Tables, Creating Views
+
+**Technology:** MySQL
+
+### Nashville Housing Data Cleaning
+
+**Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
+
+**Description:** The dataset used for this project contains records of houses that have been sold in Nashville Tennessee between 2013-2019. This project includes the folling steps: Data Loading, and Data Cleaning/Preprocessing.
+
+**Skills:** Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL)
 
 **Technology:** MySQL
 
