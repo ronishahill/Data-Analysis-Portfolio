@@ -19,7 +19,7 @@ Feel free to look around : )
   
 - [Certificates](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#certificates)
   
-- [Contacts](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 
 ## Portfolio Projects
 This section contains a list of completed projects as well as a brief description of each project:
@@ -48,8 +48,8 @@ This section contains a list of completed projects as well as a brief descriptio
 - University of Washington, Seattle, WA - Bachelor of Science, Health Informatics & Health Information Management (Jun 2023)               
 
 ## Certificates
-- Google Data Analytics Professional Certificate, Coursera - Google (Jul 2023 - Present)
+- Google Data Analytics Professional Certificate, Coursera - Google (Sept 2023 - Present)
 
-## Contacts
+## Contact
 - Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
 - Email: ronishahill@live.com
