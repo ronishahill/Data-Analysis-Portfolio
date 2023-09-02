@@ -38,7 +38,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
 
-**Description:** The dataset used for this project contains records of houses that have been sold in Nashville Tennessee between 2013-2019. This project includes the folling steps: Data Loading, and Data Cleaning/Preprocessing.
+**Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the folling steps: Data Loading, and Data Cleaning/Preprocessing.
 
 **Skills:** Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL)
 
