@@ -28,7 +28,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Covid-19 Data Exploration.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Covid-19%20Data%20Exploration.sql)
 
-**Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data Loading, Data Cleaning/Preprocessing, and Exploratory Data Analysis (EDA)
+**Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
 
 **Skills:** Joins, Windows Functions, Aggregate Functions, Converting Data Types, CTEs, Temp Tables, Creating Views
 
@@ -38,7 +38,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
 
-**Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the folling steps: Data Loading, and Data Cleaning/Preprocessing
+**Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the following steps: Data Loading, Data Cleaning and Data Preprocessing
 
 **Skills:** Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL)
 
