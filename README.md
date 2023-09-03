@@ -13,7 +13,7 @@ Feel free to look around : )
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
      - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
    - Execel / Google Sheets
-   - Tableau
+   - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      
 - [Education](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#education)
   
