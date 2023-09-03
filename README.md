@@ -45,7 +45,7 @@ This section contains a list of completed projects as well as a brief descriptio
 **Technology:** MySQL
 
 ## Education
-- University of Washington, Seattle, WA - Bachelor of Science, Health Informatics & Health Information Management (Jun 2023)               
+- University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
 
 ## Certificates
 - Google Data Analytics Professional Certificate, Coursera - Google (Sept 2023 - Present)
