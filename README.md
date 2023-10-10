@@ -12,7 +12,7 @@ Feel free to look around : )
    - SQL
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
      - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-   - Excel / Google Sheets
+   - Excel
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
      
