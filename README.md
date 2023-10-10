@@ -51,7 +51,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the following steps: Data Loading, Data Cleaning and Data Preprocessing
 
-**Skills:** Data Interpretation, Visual & Infromation Design, Interactive Visualization, User Interface (UI) Design, Storytelling & Commuication, Statistics
+**Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
 **Technology:** Tableau & Excel
 
