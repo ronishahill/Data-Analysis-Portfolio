@@ -49,7 +49,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
 
-**Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the following steps: Data Loading, Data Cleaning and Data Preprocessing
+**Description:** 
 
 **Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
