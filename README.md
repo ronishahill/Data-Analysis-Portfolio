@@ -72,7 +72,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
-**Technology:** Tableau & Excel
+**Technology:** Tableau & Microsoft Excel
 
 ## Education
 - University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
