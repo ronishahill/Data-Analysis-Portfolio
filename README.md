@@ -20,7 +20,7 @@ Feel free to look around : )
   
 - [Certificates](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#certificates)
   
-- [Contact](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Contact](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#contact)
 
 ## Portfolio Projects
 This section contains a list of completed projects as well as a brief description of each project:
