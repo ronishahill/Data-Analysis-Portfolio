@@ -13,6 +13,7 @@ Feel free to look around : )
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
      - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
    - Excel
+     - [Insurance Claim Analysis](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#insurance-claim-analysis)
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
      
@@ -48,6 +49,18 @@ This section contains a list of completed projects as well as a brief descriptio
 **Skills:** Data Manipulation Language (DML), Data Query Language (DQL), Data Definition Language (DDL)
 
 **Technology:** MySQL
+
+### Insurance Claim Analysis
+
+**Code:** 
+
+**Goal:**
+
+**Description:** This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
+
+**Skills:** Pivot Tables, Graphs & Charts
+
+**Technology:** Microsoft Excel
 
 ### HR Attrition Dashboard
 
