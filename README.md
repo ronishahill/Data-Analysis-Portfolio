@@ -30,7 +30,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Covid-19 Data Exploration.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Covid-19%20Data%20Exploration.sql)
 
-**Goal:**
+**Goal:** To gain a deeper understanding about the characteristics and potential problems of the dataset without formulating assumptions and bias about the data before future use 
 
 **Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
 
@@ -42,7 +42,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
 
-**Goal:**
+**Goal:** To clean the dataset by identify and correcting incomplete, duplicate and/or irrevelant data, thus ensuring high quality data for future desicion making 
 
 **Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the following steps: Data Loading, Data Cleaning and Data Preprocessing
 
@@ -66,13 +66,13 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
 
-**Goal:**
+**Goal:** To discover the potential cause and/or causes of employee attrition in order to make the necessary changes to future policies and the environment to retain employees
 
-**Description:** 
+**Description:** The dataset used for this project contains information collected by human resources (HR) to understancd the factors that lead an employee to leaving the company. This project includes the following steps: Data Export/Import, Data Expoloration, and Visualization Creation 
 
 **Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
-**Technology:** Tableau & Microsoft Excel
+**Technology:** Tableau & Microsoft Excel (Data Export)
 
 ## Education
 - University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
