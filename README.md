@@ -66,9 +66,9 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
 
-**Goal:** To discover the potential cause and/or causes of employee attrition in order to make the necessary changes to future policies and the environment to retain employees
+**Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
 
-**Description:** The dataset used for this project contains information collected by human resources (HR) to understancd the factors that lead an employee to leaving the company. This project includes the following steps: Data Export/Import, Data Expoloration, and Visualization Creation 
+**Description:** The dataset used for this project contains information collected by human resources (HR) to understand the factors that lead an employee to leaving the company. This project includes the following steps: Data Export/Import, Data Expoloration, and Visualization Creation 
 
 **Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
