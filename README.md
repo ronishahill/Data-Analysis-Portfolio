@@ -3,7 +3,7 @@
 ## About
 Hi, I’m Ronisha, a healthcare professional with 5+ years of experience working in direct patient care and administrative roles within various healthcare settings. I possess a Bachelor of Science (BS) in Health Informatics and Health Information Management with a strong passion for data analytics. I enjoy transforming raw data into meaningful and actionable insights used to improve patient outcomes, enhance operational efficiency, and contribute to organizational success.
 
-Over the years, I’ve developed a keen eye for identifying patterns and trends within complex datasets through personal projects and continuing education. During my free time, I’m constantly seeking new opportunities to expand upon my knowledge and technical skills. Whether working on a team or independently, I’m driven by the thrill of using data to solve complex problems.
+Over the years, I’ve developed a keen eye for identifying patterns and trends within complex datasets through personal projects and continuing education. During my free time, I’m constantly seeking new opportunities to expound upon my knowledge and technical skills. Whether working on a team or independently, I’m driven by the thrill of using data to solve complex problems.
 
 Feel free to look around : )
 
