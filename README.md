@@ -1,7 +1,9 @@
 # Ronisha Hill - Data Analysis Portfolio
 
 ## About
-Hi, I'm Ronisha! I posses a background in healthcare with a stong passion for data analytics and the transformation of raw data into meaningful and actionable insights. I have a keen eye for identifying patterns and trends within complex data sets and a knack for storytelling using various data visulization tools. Over the years, I've developed a stong foundation in analytics through a plethora of courses and personal projects. I enjoy exploring new tools and techniques that allow me to build upon my analytical skills and knowledge. 
+Hi, I’m Ronisha, a healthcare professional with 5+ years of experience working in direct patient care and administrative roles within various healthcare settings. I possess a Bachelor of Science (BS) in Health Informatics and Health Information Management with a strong passion for data analytics. I enjoy transforming raw data into meaningful and actionable insights used to improve patient outcomes, enhance operational efficiency, and contribute to organizational success.
+
+Over the years, I’ve developed a keen eye for identifying patterns and trends within complex datasets through personal projects and continuing education. During my free time, I’m constantly seeking new opportunities to expand upon my knowledge and technical skills. Whether working on a team or independently, I’m driven by the thrill of using data to solve complex problems.
 
 Feel free to look around : )
 
