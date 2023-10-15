@@ -58,7 +58,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Goal:**
 
-**Description:** This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
+**Description:** 
 
 **Skills:** Pivot Tables, Graphs & Charts
 
