@@ -16,7 +16,7 @@ Feel free to look around : )
      - [Insurance Claim Analysis](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#insurance-claim-analysis)
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
-  - UW HIHIM Capstone - Seattle Children's Hospital
+  - UW HIHIM Capstone - Seattle Children's Hospital (Retail Pharmacy)
      - [Prescription Label Translation](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#prescription-label-translation)
      
 - [Education](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#education)
@@ -78,15 +78,15 @@ This section contains a list of completed projects as well as a brief descriptio
 
 ### Prescription Label Translation
 
-**Code:** 
+**Goal:** To improve the saftey of medication labels translated and dispensed by the Seattle Children's Hospital Retail Pharmacy to non-English speaking patients
 
-**Goal:**
+**Description:** The data used for this projects included 35 of the most common prescription order statements used by Seattle Children's Retail Pharmacy. They were then to be translated into 6 languages (Spanish, Amharic, Somali, Mandarin, Cantonese, and Vietnamese) and validated against exsiting translations provided by a third-party vendor used by the pharmacay for errors and inconsistencies. 
 
-**Description:** This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
+**Findings:** It was found that compared to our translations, the vendor's translations were long and overly complicated. Due to the size of the prescription label and container, the order sentences needed to be short and concise. Also, the mistranslation of these sentences could possibly lead to adverse events such as overdose or death. After a final analysis, it was recommended by our team that the pharmacy either: A) Stopped using the vendor or B) Work with the vendor to implement some of our shorter more concise translations
 
-**Skills:** Pivot Tables, Graphs & Charts
+**Skills:** Logical Functions (Google Sheets), Graphs & Charts (Gantt Charts), Project Planning, Project Management 
 
-**Technology:** Microsoft Excel
+**Technology:** Google Suite (Google Sheets, Google Docs)
 
 
 ## Education
