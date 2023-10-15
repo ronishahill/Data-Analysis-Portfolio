@@ -16,7 +16,7 @@ Feel free to look around : )
      - [Insurance Claim Analysis](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#insurance-claim-analysis)
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
-  - UW HIHIM Capstone - Seattle Children's Hospital (Retail Pharmacy)
+  - UW HIHIM Capstone - Seattle Children's Hospital
      - [Prescription Label Translation](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#prescription-label-translation)
      
 - [Education](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#education)
