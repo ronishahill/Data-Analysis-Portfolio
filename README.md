@@ -32,7 +32,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Covid-19 Data Exploration.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Covid-19%20Data%20Exploration.sql)
 
-**Goal:** To gain a deeper understanding about the characteristics and potential problems of the dataset without formulating assumptions and bias about the data before future use 
+**Goal:** To gain a deeper understanding of the characteristics and potential problems of the dataset without formulating assumptions and biases about the data before future use 
 
 **Description:** The dataset used for this project contains records of confirmed Covid-19 cases, deaths, and vaccinations by country from 2020-2021. This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
 
@@ -44,7 +44,7 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Code:** [`Nashville Housing Data Cleaning.sql`](https://github.com/ronishahill/Portfolio-Projects/blob/main/Nashville%20Housing%20Data%20Cleaning.sql)
 
-**Goal:** To clean the dataset by identify and correcting incomplete, duplicate and/or irrevelant data, thus ensuring high quality data for future desicion making 
+**Goal:** To clean the dataset by identifying and correcting incomplete, duplicate, and/or irrelevant data, thus ensuring high quality data for future decision making 
 
 **Description:** The dataset used for this project contains records of houses that have been sold in Nashville, TN between 2013-2019. This project includes the following steps: Data Loading, Data Cleaning and Data Preprocessing
 
@@ -70,9 +70,9 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
 
-**Description:** The dataset used for this project contains information collected by human resources (HR) to understand the factors that lead an employee to leaving the company. This project includes the following steps: Data Export/Import, Data Expoloration, and Visualization Creation 
+**Description:** The dataset used for this project contains information collected by human resources (HR) to understand the factors that lead to an employee leaving the company. This project includes the following steps: Data Export/Import, Data Exploration, and Visualization Creation 
 
-**Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
+**Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Communication, Statistics
 
 **Technology:** Tableau & Microsoft Excel
 
