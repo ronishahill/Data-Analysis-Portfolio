@@ -16,6 +16,8 @@ Feel free to look around : )
      - [Insurance Claim Analysis](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#insurance-claim-analysis)
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
+  - UW HIHIM Capstone - Seattle Children's Hospital
+     - [Prescription Label Translation](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#prescription-label-translation)
      
 - [Education](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#education)
   
@@ -73,6 +75,19 @@ This section contains a list of completed projects as well as a brief descriptio
 **Skills:** Data Interpretation, Visual & Information Design, Interactive Visualization, User-Interface (UI) Design, Storytelling & Commuication, Statistics
 
 **Technology:** Tableau & Microsoft Excel
+
+### Prescription Label Translation
+
+**Code:** 
+
+**Goal:**
+
+**Description:** This project includes the following steps: Data Loading, Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA)
+
+**Skills:** Pivot Tables, Graphs & Charts
+
+**Technology:** Microsoft Excel
+
 
 ## Education
 - University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
