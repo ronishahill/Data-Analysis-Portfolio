@@ -52,18 +52,6 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Technology:** MySQL
 
-### Insurance Claim Analysis
-
-**Code:** 
-
-**Goal:**
-
-**Description:** 
-
-**Skills:** Pivot Tables, Graphs & Charts
-
-**Technology:** Microsoft Excel
-
 ### HR Attrition Dashboard
 
 **Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
