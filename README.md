@@ -83,7 +83,7 @@ This section contains a list of completed projects as well as a brief descriptio
 - University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
 
 ## Certificates
-- Google Data Analytics Professional Certificate, Coursera - Google (Oct 2023 - Present)
+- Google Data Analytics Professional Certificate, Coursera - Google (Jan 2024)
 
 ## Contact
 - Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
