@@ -14,8 +14,6 @@ Feel free to look around : )
    - SQL
      - [Covid-19 Data Exploration](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
      - [Nashville Housing Data Cleaning](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#nashville-housing-data-cleaning)
-   - Excel
-     - [Insurance Claim Analysis](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#insurance-claim-analysis)
    - Tableau --> [Tableau Profile](https://public.tableau.com/app/profile/ronishahill)
      - [HR Attrition Dashboard](https://github.com/ronishahill/Data-Analysis-Portfolio/blob/main/README.md#hr-attrition-dashboard)
   - UW HIHIM Capstone - Seattle Children's Hospital
@@ -54,11 +52,11 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Technology:** MySQL
 
---### HR Attrition Dashboard
+### HR Attrition Dashboard
 
---**Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
+**Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
 
---**Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
+**Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
 
 **Description:** The dataset used for this project contains information collected by human resources (HR) to understand the factors that lead to an employee leaving the company. This project includes the following steps: Data Export/Import, Data Exploration, and Visualization Creation 
 
@@ -83,8 +81,9 @@ This section contains a list of completed projects as well as a brief descriptio
 - University of Washington, Seattle, WA - Bachelor of Science (BS), Health Informatics & Health Information Management (Jun 2023)               
 
 ## Certificates
-- Google Data Analytics Professional Certificate, Coursera - Google (Jan 2024)
+- Google Data Analytics Professional Certificate - (Jan 2024)
+- Excel Power Query Certificate - (Sept 2024)
+- Microsoft PowerBi Data Analyst Associate (Sept 2025 - Present)
 
 ## Contact
 - Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
-- Email: ronishahill@live.com
