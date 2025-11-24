@@ -54,11 +54,11 @@ This section contains a list of completed projects as well as a brief descriptio
 
 **Technology:** MySQL
 
-### HR Attrition Dashboard
+--### HR Attrition Dashboard
 
-**Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
+--**Visualization:** [`HR Attrition Dashboard.twb`](https://public.tableau.com/app/profile/ronishahill/viz/HRAttritionDashboard_16969048581520/Dashboard1)
 
-**Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
+--**Goal:** To discover the potential cause and/or causes of employee attrition in order to implement necessary changes to the company's policy and environment to retain employees
 
 **Description:** The dataset used for this project contains information collected by human resources (HR) to understand the factors that lead to an employee leaving the company. This project includes the following steps: Data Export/Import, Data Exploration, and Visualization Creation 
 
