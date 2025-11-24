@@ -1,9 +1,9 @@
 # Ronisha Hill - Data Analysis Portfolio
 
 ## About
-Hello, I'm Ronisha, a health informatics professional with 5+ years of experience analyzing patient data in various healthcare roles and settings. I enjoy transforming raw data into meaningful and actionable insights used to make data-driven decisions, improve patient outcomes, and assist in optimal healthcare management. Through analytical and big picture thinking, I excel at uncovering patterns and trends within complex datasets, which can be used to guide strategic business decisions and meet organizational goals. 
+Hello, I'm Ronisha, a health informatics professional with 7+ years of experience analyzing patient data in various healthcare roles and settings. I enjoy transforming raw data into meaningful and actionable insights used to make data-driven decisions, improve patient outcomes, and assist in optimal healthcare management. Through analytical and big picture thinking, I excel at uncovering patterns and trends within complex datasets, which can be used to guide strategic business decisions and meet organizational goals. 
 
-I'm committed to continuous learning and staying at the forefront of the latest advancements in healthcare and data analytics. In addition to my Bachelor's Degree in Health Informatics & Information Management, I'm proficient in SQL, R, Excel, Tableau, Power BI, Epic Systems, and more.
+I'm committed to continuous learning and staying at the forefront of the latest advancements in healthcare and data analytics. In addition to my Bachelor's Degree in Health Informatics & Information Management, I'm proficient in SQL, Excel, Tableau, Power BI, Epic Systems, and more.
 
 Feel free to look around : )
 
@@ -86,4 +86,4 @@ This section contains a list of completed projects as well as a brief descriptio
 - Microsoft PowerBi Data Analyst Associate (Sept 2025 - Present)
 
 ## Contact
-- Linkedin: [@ronishahill](https://www.linkedin.com/in/ronishahill/)
+- Linkedin: [ronishahill](https://www.linkedin.com/in/ronishahill/)
